@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/elvis/Documents/ProyectoEJB/ProyectoEJB-ejb/src/java/cl/services/ProductFacadeLocal.java</file>
+            <file>file:/Users/elvis/Documents/ProyectoEJB/ProyectoEJB-ejb/src/java/cl/pojos/Manufacturer.java</file>
+            <file>file:/Users/elvis/Documents/ProyectoEJB/ProyectoEJB-ejb/src/java/cl/services/ManufacturerFacade.java</file>
+            <file>file:/Users/elvis/Documents/ProyectoEJB/ProyectoEJB-ejb/src/java/cl/services/ManufacturerFacadeLocal.java</file>
+            <file>file:/Users/elvis/Documents/ProyectoEJB/ProyectoEJB-ejb/src/java/cl/pojos/ProductCode.java</file>
+            <file>file:/Users/elvis/Documents/ProyectoEJB/ProyectoEJB-ejb/src/java/cl/services/ProductFacade.java</file>
+            <file>file:/Users/elvis/Documents/ProyectoEJB/ProyectoEJB-ejb/src/conf/persistence.xml</file>
+            <file>file:/Users/elvis/Documents/ProyectoEJB/ProyectoEJB-ejb/src/java/cl/services/ProductCodeFacadeLocal.java</file>
+            <file>file:/Users/elvis/Documents/ProyectoEJB/ProyectoEJB-ejb/src/java/cl/services/ProductCodeFacade.java</file>
+            <file>file:/Users/elvis/Documents/ProyectoEJB/ProyectoEJB-ejb/src/java/cl/pojos/Product.java</file>
+            <file>file:/Users/elvis/Documents/ProyectoEJB/ProyectoEJB-ejb/src/java/cl/services/AbstractFacade.java</file>
+        </group>
+    </open-files>
+</project-private>
