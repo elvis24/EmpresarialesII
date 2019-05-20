@@ -34,6 +34,8 @@ public class ProductoBean {
 
    
     public ProductoBean() {
+       
+       
     }
     
     public List<Product> getProducts(){
@@ -49,7 +51,7 @@ public class ProductoBean {
         p.setAvailable(AVAILABLE);
         p.setDescription(DESCRIPTION);
         
-        productFacade.create(p);
+        p.setProductId(productFacade.find(p.getProductId()));
         
         
         return "PRODUCT";
