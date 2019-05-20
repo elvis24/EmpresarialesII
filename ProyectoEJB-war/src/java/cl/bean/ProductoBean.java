@@ -51,7 +51,7 @@ public class ProductoBean {
         p.setAvailable(AVAILABLE);
         p.setDescription(DESCRIPTION);
         
-        p.setProductId(productFacade.find(p.getProductId()));
+        
         
         
         return "PRODUCT";
